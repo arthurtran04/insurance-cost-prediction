@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+Insurance Cost Prediction is a data science project developed in Jupyter Notebook that applies machine learning techniques to estimate insurance costs based on various personal and demographic factors. This repository provides a complete workflow for exploring, preprocessing, modeling, and evaluating insurance datasets, making it a valuable resource for understanding and predicting insurance pricing.
 
 ## Table of Contents
 
